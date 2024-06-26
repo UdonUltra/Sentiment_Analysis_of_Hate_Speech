@@ -1,0 +1,3 @@
+Dataset url: https://www.kaggle.com/datasets/waalbannyantudre/hate-speech-detection-curated-dataset/data
+model url: https://github.com/FTDS-assignment-bay/p2-ftds016-hck-g7-UdonUltra
+Deployment url: https://huggingface.co/spaces/UdonUltra/Graded_Challenge_7
